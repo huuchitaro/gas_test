@@ -1,3 +1,4 @@
 function myFunction() {
-  Logger.log('hoge')
+    Logger.log('hoge')
+    Logger.log('fuga')
 }
